@@ -14,3 +14,8 @@
 "diff": show you every change has been made, and what the changes are 
     - show you the difference between your changes and the last know git state
     - "diff --staged" shows you the diff of the files in the staging area
+
+'restore --staged <FILE>': undo the git add step, unstages <FILES> from the staging area
+
+
+
